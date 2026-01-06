@@ -7,3 +7,7 @@
 "xcode.md":
     text: "Xcode"
     path: true
+
+"compression.md":
+    text: "图片处理"
+    path: true
