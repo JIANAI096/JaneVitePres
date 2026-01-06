@@ -1,0 +1,18 @@
+"index.md":
+    text: "首页"
+    path: false
+"git":
+    text: "Git"
+    path: true
+"code":
+    text: "常用代码片段"
+    path: true
+"uniapp":
+    text: "uniapp"
+    path: true
+"vue2":
+    text: "vue2"
+    path: true
+"css":
+    text: "css"
+    path: true

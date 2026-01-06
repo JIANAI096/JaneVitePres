@@ -1,0 +1,9 @@
+"index.md":
+    text: "vue"
+    path: true
+"script.md":
+    text: "vue 更新 script"
+    path: true
+"filters.md":
+    text: "filters"
+    path: true

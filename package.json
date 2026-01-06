@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "js-yaml": "^4.1.0",
+    "vitepress": "^1.6.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
