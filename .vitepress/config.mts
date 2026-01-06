@@ -32,6 +32,7 @@ export default defineConfig({
     srcDir: "./path",
     title: "Jane GM",
     description: "VitePress网站",
+    base:'/JaneVitePres/',
     themeConfig: {
         logo: "/assets/avatar.png",
         // https://vitepress.dev/reference/default-theme-config
